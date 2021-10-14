@@ -387,7 +387,7 @@
             <div class="col-md-10 col-lg-6 col-xl-5">
               <div class="text-block-2">
                 <h6>Dot Bank was founded in 1999 to introduce the new level of financial services worldwide. We are still dedicated to the success of our clients.</h6>
-                <p>At Dot Bank, we are guided by a common purpose to help make financial lives better by connecting clients and communities to the resource they need to be successful. We are driving growth â€“ helping to create jobs, develop communities, foster economic mobility and address societyâ€™s biggest challenges â€“ while managing risk and providing a return to our clients and our shareholders.</p><a class="button button-lg button-primary" href="about.html">Learn More</a>
+                <p>At Dot Bank, we are guided by a common purpose to help make financial lives better by connecting clients and communities to the resource they need to be successful. We are driving growth – helping to create jobs, develop communities, foster economic mobility and address society’s biggest challenges – while managing risk and providing a return to our clients and our shareholders.</p><a class="button button-lg button-primary" href="about.html">Learn More</a>
               </div>
             </div>
           </div>
