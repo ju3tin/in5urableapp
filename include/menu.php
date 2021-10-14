@@ -7,7 +7,7 @@
                   <!-- RD Navbar Toggle-->
                   <button class="rd-navbar-toggle" data-rd-navbar-toggle=".rd-navbar-nav-wrap"><span></span></button>
                   <!-- RD Navbar Brand-->
-                  <div class="rd-navbar-brand"><a class="brand" href="index.html"><img class="brand-logo-dark" src="images/logo-84x23.png" alt="" width="84" height="23"/><img class="brand-logo-light" src="images/logo-inverse-84x23.png" alt="" width="84" height="23"/></a>
+                  <div class="rd-navbar-brand"><a class="brand" href="index.php"><img class="brand-logo-dark" src="images/logo-84x23.png" alt="" width="84" height="23"/><img class="brand-logo-light" src="images/logo-inverse-84x23.png" alt="" width="84" height="23"/></a>
                   </div>
                 </div>
                 <div class="rd-navbar-main-element">
@@ -25,18 +25,18 @@
                       <li class="rd-nav-item"><a class="rd-nav-link" href="about.php">About</a>
                         <!-- RD Navbar Dropdown-->
                         <ul class="rd-menu rd-navbar-dropdown">
-                          <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="pricing.html">Pricing</a></li>
-                          <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="our-team.html">Our team</a></li>
-                          <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="single-job.html">Single job</a></li>
+                          <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="pricing.php">Pricing</a></li>
+                          <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="ourteam.php">Our team</a></li>
+                          <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="singlejob.php">Single job</a></li>
                         </ul>
                       </li>
-                      <li class="rd-nav-item"><a class="rd-nav-link" href="services.html">Services</a>
+                      <li class="rd-nav-item"><a class="rd-nav-link" href="services.php">Services</a>
                         <!-- RD Navbar Dropdown-->
                         <ul class="rd-menu rd-navbar-dropdown">
-                          <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="single-service.html">Single service</a></li>
+                          <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="singleservice.php">Single service</a></li>
                         </ul>
                       </li>
-                      <li class="rd-nav-item"><a class="rd-nav-link" href="careers.html">Careers</a>
+                      <li class="rd-nav-item"><a class="rd-nav-link" href="careers.php">Careers</a>
                       </li>
                       <li class="rd-nav-item"><a class="rd-nav-link" href="#">Pages</a>
                         <!-- RD Navbar Megamenu-->
@@ -44,47 +44,47 @@
                           <li class="rd-megamenu-item">
                             <h6 class="rd-megamenu-title">Elements</h6>
                             <ul class="rd-megamenu-list">
-                              <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="typography.html">Typography</a></li>
-                              <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="buttons.html">Buttons</a></li>
-                              <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="forms.html">Forms</a></li>
-                              <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="tabs-and-accordions.html">Tabs and accordions</a></li>
-                              <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="progress-bars.html">Progress bars</a></li>
-                              <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="grid.html">Grid</a></li>
-                              <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="tables.html">Tables</a></li>
+                              <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="typography.php">Typography</a></li>
+                              <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="buttons.php">Buttons</a></li>
+                              <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="forms.php">Forms</a></li>
+                              <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="tabs-and-accordions.php">Tabs and accordions</a></li>
+                              <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="progress-bars.php">Progress bars</a></li>
+                              <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="grid.php">Grid</a></li>
+                              <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="tables.php">Tables</a></li>
                             </ul>
                           </li>
                           <li class="rd-megamenu-item">
                             <h6 class="rd-megamenu-title">Blog</h6>
                             <ul class="rd-megamenu-list">
-                              <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="classic-blog.html">Classic blog</a></li>
-                              <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="grid-blog.html">Grid blog</a></li>
-                              <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="masonry-blog.html">Masonry blog</a></li>
-                              <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="modern-blog.html">Modern blog</a></li>
-                              <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="single-post.html">Single post</a></li>
+                              <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="classic-blog.php">Classic blog</a></li>
+                              <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="grid-blog.php">Grid blog</a></li>
+                              <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="masonry-blog.php">Masonry blog</a></li>
+                              <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="modern-blog.php">Modern blog</a></li>
+                              <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="single-post.php">Single post</a></li>
                             </ul>
                           </li>
                           <li class="rd-megamenu-item">
                             <h6 class="rd-megamenu-title">Gallery</h6>
                             <ul class="rd-megamenu-list">
-                              <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="grid-gallery.html">Grid gallery</a></li>
-                              <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="masonry-gallery.html">Masonry gallery</a></li>
-                              <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="single-product.html">Single product</a></li>
+                              <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="grid-gallery.php">Grid gallery</a></li>
+                              <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="masonry-gallery.php">Masonry gallery</a></li>
+                              <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="single-product.php">Single product</a></li>
                             </ul>
                           </li>
                           <li class="rd-megamenu-item">
                             <h6 class="rd-megamenu-title">Extras</h6>
                             <ul class="rd-megamenu-list">
-                              <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="404.html">404 Page</a></li>
-                              <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="503.html">503 Page</a></li>
-                              <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="coming-soon.html">Coming soon</a></li>
-                              <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="login.html">Login/Registration</a></li>
-                              <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="privacy-policy.html">Privacy policy</a></li>
-                              <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="search-results.html">Search results</a></li>
+                              <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="404.php">404 Page</a></li>
+                              <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="503.php">503 Page</a></li>
+                              <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="coming-soon.php">Coming soon</a></li>
+                              <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="login.php">Login/Registration</a></li>
+                              <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="privacy-policy.php">Privacy policy</a></li>
+                              <li class="rd-megamenu-list-item"><a class="rd-megamenu-list-link" href="search-results.php">Search results</a></li>
                             </ul>
                           </li>
                         </ul>
                       </li>
-                      <li class="rd-nav-item"><a class="rd-nav-link" href="contacts.html">Contacts</a>
+                      <li class="rd-nav-item"><a class="rd-nav-link" href="contacts.php">Contacts</a>
                       </li>
                     </ul>
                   </div>
