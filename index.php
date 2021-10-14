@@ -34,7 +34,7 @@
         
         <?php 
    $path = $_SERVER['DOCUMENT_ROOT'];
-   $path .= "/menu/menu.php";
+   $path .= "/include/menu.php";
    include_once($path);
 ?>
       </header>
