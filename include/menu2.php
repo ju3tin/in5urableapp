@@ -1,5 +1,5 @@
-<div class="rd-navbar-wrap rd-navbar-absolute">
-          <nav class="rd-navbar rd-navbar-transparent" data-layout="rd-navbar-fixed" data-sm-layout="rd-navbar-fixed" data-md-layout="rd-navbar-fixed" data-md-device-layout="rd-navbar-fixed" data-lg-layout="rd-navbar-static" data-lg-device-layout="rd-navbar-fixed" data-xl-layout="rd-navbar-static" data-xl-device-layout="rd-navbar-static" data-lg-stick-up-offset="20px" data-xl-stick-up-offset="20px" data-xxl-stick-up-offset="20px" data-lg-stick-up="true" data-xl-stick-up="true" data-xxl-stick-up="true">
+<div class="rd-navbar-wrap">
+          <nav class="rd-navbar rd-navbar-classic" data-layout="rd-navbar-fixed" data-sm-layout="rd-navbar-fixed" data-md-layout="rd-navbar-fixed" data-md-device-layout="rd-navbar-fixed" data-lg-layout="rd-navbar-static" data-lg-device-layout="rd-navbar-static" data-xl-layout="rd-navbar-static" data-xl-device-layout="rd-navbar-static" data-lg-stick-up-offset="20px" data-xl-stick-up-offset="20px" data-xxl-stick-up-offset="20px" data-lg-stick-up="true" data-xl-stick-up="true" data-xxl-stick-up="true">
             <div class="rd-navbar-main-outer">
               <div class="rd-navbar-main">
                 <!-- RD Navbar Panel-->
@@ -14,15 +14,15 @@
                   <div class="rd-navbar-nav-wrap">
                     <!-- RD Navbar Nav-->
                     <ul class="rd-navbar-nav">
-                      <li class="rd-nav-item active"><a class="rd-nav-link" href="/">Home</a>
+                      <li class="rd-nav-item active"><a class="rd-nav-link" href="index.html">Home</a>
                         <!-- RD Navbar Dropdown-->
                         <ul class="rd-menu rd-navbar-dropdown">
-                          <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="index2.php">Home 1</a></li>
-                          <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="index3.php">Home 2</a></li>
-                          <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="index4.php">Home 3</a></li>
+                          <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="index-1.html">Home 1</a></li>
+                          <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="index-2.html">Home 2</a></li>
+                          <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="index-3.html">Home 3</a></li>
                         </ul>
                       </li>
-                      <li class="rd-nav-item"><a class="rd-nav-link" href="about.php">About</a>
+                      <li class="rd-nav-item"><a class="rd-nav-link" href="about.html">About</a>
                         <!-- RD Navbar Dropdown-->
                         <ul class="rd-menu rd-navbar-dropdown">
                           <li class="rd-dropdown-item"><a class="rd-dropdown-link" href="pricing.html">Pricing</a></li>
@@ -90,7 +90,7 @@
                   </div>
                   <!-- RD Navbar Search-->
                   <div class="rd-navbar-search">
-                    <button class="rd-navbar-search-toggle rd-navbar-fixed-element-1" data-rd-navbar-toggle=".rd-navbar-search"><span></span></button>
+                    <button class="rd-navbar-search-toggle rd-navbar-fixed-element-2" data-rd-navbar-toggle=".rd-navbar-search"><span></span></button>
                     <form class="rd-search" action="search-results.html" data-search-live="rd-search-results-live" method="GET">
                       <div class="form-wrap">
                         <label class="form-label" for="rd-navbar-search-form-input">Search</label>
@@ -99,6 +99,12 @@
                       </div>
                       <button class="rd-search-form-submit mdi mdi-magnify" type="submit"></button>
                     </form>
+                  </div>
+                </div>
+                <div class="rd-navbar-aside-element">
+                  <div class="rd-navbar-collapse-toggle rd-navbar-fixed-element-1" data-rd-navbar-toggle=".rd-navbar-collapse"><span></span></div>
+                  <div class="rd-navbar-collapse rd-navbar-info">
+                    <div class="icon mdi mdi-cellphone-iphone"></div><a href="tel:#">1-800-1234-567</a>
                   </div>
                 </div>
               </div>
